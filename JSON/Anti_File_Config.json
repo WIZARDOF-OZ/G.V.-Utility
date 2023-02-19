@@ -1,0 +1,20 @@
+[
+    {
+        "guildId": "810199045036441681",
+        "blackListedChannels": [
+            "842287740233711648"
+        ],
+        "whiteListedChannels": [
+            "842287740233711648"
+        ],
+        "fileType": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".gif"
+        ],
+        "ignoredPerms": [
+            "ADMINISTRATOR"
+        ]
+    }
+]

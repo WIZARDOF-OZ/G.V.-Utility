@@ -1,0 +1,15 @@
+{
+    "guild": [
+        "810199045036441681"
+    ],
+    "logChannel": "842287740233711648",
+    "logPingRole": "",
+    "exemptPermissions": [
+        "ADMINISTRATOR"
+    ],
+    "ignoredUsers": [],
+    "muteRoleId": "855003307235999744",
+    "msgLimit": 5,
+    "deleteTime": 100000000,
+    "msgDiff": 3000
+}

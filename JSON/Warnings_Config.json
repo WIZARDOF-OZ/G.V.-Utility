@@ -1,0 +1,7 @@
+{
+    "type":{
+        "user" : 1,
+        "badWord": 2,
+        "spam": 3
+    }
+}

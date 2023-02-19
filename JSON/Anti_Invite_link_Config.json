@@ -1,0 +1,10 @@
+[
+    {
+        "guildId": "810199045036441681",
+        "delete": true,
+        "ignoredPerms": [
+            "ADMINISTRATOR"
+        ],
+        "ignoredChannels": ["842287740233711648"]
+    }
+]
